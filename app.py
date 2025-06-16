@@ -46,7 +46,7 @@ START_DATE = '2020-01-01'
 END_DATE = datetime.now().strftime('%Y-%m-%d')
 MYSQL_CONFIG = {
     'user': 'root',
-    'password': '',
+    'password': 'root1234',
     'host': 'localhost',
     'database': 'trading',
     'port': '3306'
